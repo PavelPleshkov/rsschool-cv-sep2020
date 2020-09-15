@@ -45,3 +45,20 @@ Some projects from courses on my [GitHub](https://github.com/PavelPleshkov) in a
 - [Serf Shop](https://pavelpleshkov.github.io/serfhouse/index.html) with some product pages like [this board](https://pavelpleshkov.github.io/serfhouse/productpage.html), [this](https://pavelpleshkov.github.io/serfhouse/productpage-2.html) or [this](https://pavelpleshkov.github.io/serfhouse/productpage-3.html), [catalog](https://pavelpleshkov.github.io/serfhouse/catalog.html) and [Contacts](https://pavelpleshkov.github.io/serfhouse/contact.html) with interactive map on the background
 - [Animation](https://pavelpleshkov.github.io/animation/) with moving image in header(stop it by mouse on it), appearing sections after scroll and something like automatic slider written with help of CSS-animation and no JS, adaptive
 - [Adaptive&Bootstrap](https://pavelpleshkov.github.io/projectpage/) the name speaks for itself:)
+
+## Education
+Higher education:
+- Belarusian National Technical University, Energy Engineer
+
+Courses:
+- htmlacademy
+- Geekbrains Mail.Ru Group: 
+    - "HTML / CSS. Website Creation Basics", 
+    - "HTML5 / CSS3. Modern Web Development", 
+    - "Javascript Level 1. Interactive web applications"
+- Lots of self-education
+
+Also I study JavaScript on learn.javascript.ru
+
+## English
+I studied English in courses International House for 1,5 years. Completed pre-intermediate (A2)(Certificate no: 0423/18), partially Intermediate (B1)
