@@ -1,2 +1,3 @@
 # rsschool-cv
-CV
+
+https://pavelpleshkov.github.io/rsschool-cv/cv
